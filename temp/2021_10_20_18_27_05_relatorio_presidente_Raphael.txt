@@ -1,0 +1,7 @@
+
+Relatório: Total de capital no banco
+
+Olá, Raphael!
+O capital total presente no banco é de: R$  18000.0
+
+Data: 20/10/2021 18:27:05

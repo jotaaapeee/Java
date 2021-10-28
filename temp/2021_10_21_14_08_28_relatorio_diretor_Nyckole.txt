@@ -1,0 +1,55 @@
+
+Relatório: Informações dos clientes
+
+Olá, Nyckole
+
+ 
+Nome do cliente: Carol
+CPF do cliente: 212345678900
+Número da agência: 1
+
+
+ 
+Nome do cliente: Joao
+CPF do cliente: 12345678901
+Número da agência: 2
+
+
+ 
+Nome do cliente: Luan
+CPF do cliente: 13579246800
+Número da agência: 1
+
+
+ 
+Nome do cliente: Lucas's
+CPF do cliente: 67584930210
+Número da agência: 2
+
+
+ 
+Nome do cliente: Nyckole
+CPF do cliente: 10293847566
+Número da agência: 2
+
+
+ 
+Nome do cliente: Raphael
+CPF do cliente: 10102929384
+Número da agência: 1
+
+
+ 
+Nome do cliente: Roberto
+CPF do cliente: 13579246879
+Número da agência: 2
+
+
+ 
+Nome do cliente: Sabrina
+CPF do cliente: 66574839201
+Número da agência: 1
+
+
+
+Data: 21/10/2021 14:08:28
