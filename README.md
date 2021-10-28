@@ -1,2 +1,3 @@
 # Java
-Java exercises.
+
+Trabalho final de Java sobre um Banco.
